@@ -39,6 +39,6 @@ ADK supports several Gemini models with different capabilities and price points.
 3. **For complex reasoning tasks:** Choose gemini-2.5-pro
 4. **For production applications:** Prefer stable models over experimental/preview versions
 
-## Additional Resources
+## Additional Resources ~
 
 For the most up-to-date information on Gemini models, visit the [official Gemini API documentation](https://ai.google.dev/gemini-api/docs/models).
